@@ -127,8 +127,6 @@ blockquote {
 a {
   text-decoration: none;                // 추가된 코드입니다.
   
-
-a {
   &:focus {
     @extend %tab-focus;
   }
@@ -340,5 +338,4 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
-}
 }
