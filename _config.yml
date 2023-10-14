@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "b678a763e4d5ecb79c9b50dbc7c0cd0d9c7a4038"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "OK Marketer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "베스트 인기 상품 마케터"
   location         : "Somewhere"
   email            :
   links:
