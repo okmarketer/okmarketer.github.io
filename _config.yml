@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "OK Marketer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/OK_marketer.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "베스트 인기 상품 비교"
   location         : "B617"
   email            :
